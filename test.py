@@ -1,1 +1,1 @@
-print('Hello git world! in test BR')
+print('Hello git world! in test')
